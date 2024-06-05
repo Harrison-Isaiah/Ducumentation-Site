@@ -1,0 +1,31 @@
+{
+  "name": "doc-site",
+  "version": "0.0.1",
+  "description": "JavaScript NextJs Animation Tutorial",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harrison-Isaiah?tab=repositories"
+  },
+  "author": "Harrison Isaiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harrison-Isaiah?tab=repositories"
+  },
+  "homepage": "https://github.com/Harrison-Isaiah?tab=repositories",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
